@@ -25,9 +25,10 @@ title:                 Hilding Wollbo
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-     Graduated Information Engineer from KTH, I post things that interest me
+     Information Engineer
+
 # A shorter description for the sidebar.
-tagline:               AI/IT
+tagline:               Information Engineer
 
 # A list of keywords for your blog
 keywords:              [signal processing, statistics, information theory, machine learning]
@@ -35,8 +36,9 @@ keywords:              [signal processing, statistics, information theory, machi
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icon/logo1.png
-image:                 assets/img/logo2.png
+logo:                  /assets/img/logo1.png
+image:                  assets/img/logo2.png
+
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
@@ -65,10 +67,10 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             © 2020. All rights reserved.
 
 # Format of the permalinks
-permalink:             /:year-:month-:day-:title/
+permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
@@ -103,7 +105,7 @@ remote_theme: hydecorp/hydejack@v9.0.4
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/qt.jpg
+accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(80,159,137)
 
 # This is used for the `theme-color` meta tag,
