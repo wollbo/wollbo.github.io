@@ -1,6 +1,6 @@
 ---
 layout: about
-title:  Author
+title:  About
 ---
 My name is Hilding Wollbo, I'm a graduate from KTH with a MSc in Information and Network Engineering and as BSc in Electrical Engineering. Currently looking for my first real job! 
 
@@ -8,7 +8,7 @@ I have a background in statistical signal processing, but my primary field of ex
 
 This site is a place where I share my work and chronicle what I'm currently learning about, as well as other things that can be of interest to others in the space.
 
-# Resume
+## Resume
 
 <div id="pdf">
   <object width="100%" height="850" type="application/pdf" data="/assets/pdf/cv_english.pdf" id="pdf_content">
